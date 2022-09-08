@@ -324,12 +324,22 @@ header {
   color: var(--gray);
 }
 
+
 .things__item--heading p {
   font-weight: 300;
   line-height: 2em;
   max-width: 300px;
   margin: 0 auto;
   padding-top: 1em;
+}
+
+.things__item--heading span{
+  display: block;
+  font-weight: 700;
+}
+
+.things__item--heading span p{
+  padding-top: 0;
 }
 
 @media (min-width: 62em) {
