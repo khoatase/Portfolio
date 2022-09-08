@@ -221,7 +221,6 @@ header {
   top: 0;
   right: 0;
   z-index: -100;
-  display: none;
 }
 
 .banner__heading {
