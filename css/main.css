@@ -439,6 +439,10 @@ header {
     justify-content: center;
   }
 
+  .works__img img {
+    object-fit: cover;
+  }
+
   .works__img--single {
     margin: 0 5em;
     width: 35%;
